@@ -6,6 +6,7 @@ Project Overview
 This project is a weather forecast web application built using HTML, CSS, and JavaScript. It allows users to fetch and display the current weather information for a specified location using the OpenWeatherMap API.
 
 Features
+
 Fetch Weather Data: Users can enter a city name and click the "Get Weather" button to fetch and display the current weather information.
 Display Weather Information: The app displays the city name, country, temperature, weather description, humidity, and wind speed.
 Files and Structure
