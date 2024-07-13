@@ -1,4 +1,5 @@
 Name- Bhavuk Mehta , Id - CT08DS2338
+
 Comprehensive Documentation
 Project Overview
 This project is a weather forecast web application built using HTML, CSS, and JavaScript. It allows users to fetch and display the current weather information for a specified location using the OpenWeatherMap API.
